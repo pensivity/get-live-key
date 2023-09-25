@@ -1,4 +1,4 @@
-# get-live-key
+# Get Live Key
 A recursive SQL CTE to find the live address key among alias relationships.
 
 Some of the explanation is contained in the code comments. The following explanation is additional to that and has useful visualisations of how the query works.
